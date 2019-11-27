@@ -1,0 +1,40 @@
+*{
+    margin:0%;
+    padding:0%;
+}
+ 
+.primeiroContainer{
+    background: purple;
+    border-radius: 10px 10px 0px 0px;
+    color:white;
+    width: 600px;
+    margin:auto;
+    box-shadow: 5px 5px 5px 2px rgba(0,0,0,0.12)
+
+}
+.segundoContainer{
+    background: rgb(212, 153, 212);
+    border-radius: 0px 0px 10px 10px;
+    width: 600px;
+    margin:auto; 
+    box-shadow: 3px 3px 5px 2px rgba(0,0,0,0.12)
+
+}
+#Columm{ 
+    display: flex;
+    justify-content: center;
+    padding: 15px;
+}
+#valorSalario{
+    margin-left:20px;
+    border-radius: 5px;
+}
+.buttom{
+    margin-left:20px;
+    border-radius: 5px;
+}
+#salario{
+    margin:auto;
+    height: 80px;
+    padding: 10px;
+}
