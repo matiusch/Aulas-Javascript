@@ -1,0 +1,15 @@
+*{
+    margin:0%;
+    padding:0%;
+}
+nav{
+    background-color: rgba(0,0,0,0.12);
+    margin-bottom:20px;
+}
+#info1,#info2,#info3,
+#info4,#info5,#info6,
+#info7{
+
+    margin-bottom:10px;
+
+}
